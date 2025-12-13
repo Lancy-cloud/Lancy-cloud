@@ -18,7 +18,8 @@ jobs:
           # --- 基础配置 ---
           user: Lancy-cloud       # <---【⚠️一定要改成你的 GitHub 用户名】
           template: classic
-          base: ""             # 关闭基础信息，专注显示流量
+          # base: ""  <-- 删掉这一行，或者改成下面这样：
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           filename: github-metrics-traffic.svg
 
