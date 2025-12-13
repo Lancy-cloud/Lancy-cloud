@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # --- 基础配置 ---
-          user: zhangsan       # <---【⚠️一定要改成你的 GitHub 用户名】
+          user: Lancy-cloud       # <---【⚠️一定要改成你的 GitHub 用户名】
           template: classic
           base: ""             # 关闭基础信息，专注显示流量
           config_timezone: Asia/Shanghai
