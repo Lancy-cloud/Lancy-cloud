@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ### 📊 每日流量趋势
-![](./github-metrics-traffic.svg)
+![](./github-metrics-traffic.svg?v=1)
